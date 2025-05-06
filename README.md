@@ -1,5 +1,22 @@
-# Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# <img src="https://cdn.simpleicons.org/vue.js/4FC08D" width="40" height="40" /> COMPOSABLES
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+
+### Repo para que prueben los composables que vimos en la clase 👍
+
+
+#### Esta es la definición “oficial” de composable sacada de la documentación de Vue.
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+
+---
+> Una función que utiliza la API de Composición para encapsular y reuitilizar lógica reactiva que mantiene su estado.
+---
+Los composables son archivos que contienen funciones que podemos utilizar y reutilizar en nuestros componentes
+vue, la forma de crearlos es sencilla debemos crear una funcion que contenga la logica para una determinada accion, 
+utilizaremos objetos reactivos, hooks, y lo que necesitemos como su fuera parte de un componente
+
+para aprender un poco mas de composables les dejo el siguiente link
+
+[escuela vue](https://escuelavue.es/devtips/vue-3-composable-functions)
